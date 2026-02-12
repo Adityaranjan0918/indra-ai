@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# npm logs
+npm-debug.log*
+
+# Environment files
+.env.local
+
+# Vercel build artifacts
+.vercel/
+
+# Build directories
+/dist/
+/build/
+
+# OS files
+.DS_Store
+
+# IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
